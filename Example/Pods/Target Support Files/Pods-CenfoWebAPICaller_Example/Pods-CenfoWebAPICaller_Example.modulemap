@@ -1,0 +1,6 @@
+framework module Pods_CenfoWebAPICaller_Example {
+  umbrella header "Pods-CenfoWebAPICaller_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

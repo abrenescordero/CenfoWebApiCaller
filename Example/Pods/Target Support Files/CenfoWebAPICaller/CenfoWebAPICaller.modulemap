@@ -1,0 +1,6 @@
+framework module CenfoWebAPICaller {
+  umbrella header "CenfoWebAPICaller-umbrella.h"
+
+  export *
+  module * { export * }
+}
