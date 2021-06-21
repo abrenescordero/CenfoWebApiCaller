@@ -22,7 +22,7 @@ pod 'CenfoWebAPICaller'
 
 ## Author
 
-Steven, Steven
+Steven Brenes Cordero
 
 ## License
 
